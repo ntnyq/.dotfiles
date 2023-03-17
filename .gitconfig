@@ -1,0 +1,26 @@
+[user]
+  name = ntnyq
+  email = ntnyq13@gmail.com
+
+[core]
+  editor = vim
+  whitespace = fix,-indent-width-non-tab,trailing-space,cr-at-eol
+  excludesfile = ~/.gitignore_global
+  quotepath = false
+  ignorecase = false
+
+[color]
+  ui = auto
+
+[oh-my-zsh]
+  hide-status = 1
+  hide-dirty = 1
+
+[pull]
+  ff = only
+
+[init]
+  defaultBranch = main
+
+[includeIf "gitdir:~/Desktop/work/gitee/**"]
+  path = .gitconfig_gitee
