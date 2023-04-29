@@ -1,6 +1,7 @@
 # NPM
 node_modules
 
+# Local only files
 *.local
 
 # Log files
@@ -17,3 +18,8 @@ __MACOSX
 *.swp
 *.swo
 *.so
+
+# Cache
+.eslintcache
+.stylelintcache
+.vitepress/cache

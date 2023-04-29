@@ -12,15 +12,15 @@
 [color]
   ui = auto
 
-[oh-my-zsh]
-  hide-status = 1
-  hide-dirty = 1
-
 [pull]
   ff = only
 
 [init]
   defaultBranch = main
+
+[oh-my-zsh]
+  hide-status = 1
+  hide-dirty = 1
 
 [includeIf "gitdir:~/Desktop/work/gitee/**"]
   path = .gitconfig_gitee

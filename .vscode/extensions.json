@@ -1,0 +1,35 @@
+{
+  "recommendations": [
+    "Vue.volar",
+    "mikestead.dotenv",
+    "antfu.file-nesting",
+    "mrmlnc.vscode-scss",
+    "naumovs.color-highlight",
+    "WakaTime.vscode-wakatime",
+    "yoavbls.pretty-ts-errors",
+    "wayou.vscode-todo-highlight",
+    "christian-kohler.path-intellisense",
+
+    // Linter & Formatter
+    "EditorConfig.EditorConfig",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "streetsidesoftware.code-spell-checker",
+
+    // Theme & Icons
+    "PKief.material-icon-theme",
+    "zhuangtongfa.material-theme",
+
+    // Only enbale when necessary in workspace
+    "octref.vetur",
+    "Dart-Code.flutter",
+    "bungcip.better-toml",
+    "Dart-Code.dart-code",
+    "denoland.vscode-deno",
+    "svelte.svelte-vscode",
+    "rust-lang.rust-analyzer",
+    "tauri-apps.tauri-vscode",
+    "astro-build.astro-vscode",
+    "amodio.tsl-problem-matcher"
+  ]
+}
