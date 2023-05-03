@@ -234,5 +234,6 @@
   "security.workspace.trust.untrustedFiles": "open",
   "fileNestingUpdater.autoUpdate": false,
   "markdown.validate.fileLinks.enabled": "warning",
-  "git.openRepositoryInParentFolders": "always"
+  "git.openRepositoryInParentFolders": "always",
+  "cSpell.words": ["vimrc"]
 }

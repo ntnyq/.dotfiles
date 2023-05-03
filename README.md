@@ -16,6 +16,10 @@
 - [.vscode/settings.json](./.vscode/settings.json)
 - [.vscode/extensions.json](./.vscode/extensions.json)
 
+## Vim settings
+
+- [.vimrc](./.vimrc)
+
 ## License
 
 [MIT](./LICENSE) License © 2023-PRESENT [ntnyq](https://github.com/ntnyq)
